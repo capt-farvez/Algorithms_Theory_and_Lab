@@ -1,2 +1,7 @@
 # Algorithms_Theory_and_Lab
-Course : Algorithms + Algorithms Lab . Department of CSE , University of Asia Pacific.
+
+Courses: 
+1. Algorithms.
+2. Algorithms Lab . 
+
+At Department of CSE , University of Asia Pacific.
